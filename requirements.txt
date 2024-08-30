@@ -1,1 +1,1 @@
-pip3.12 install Flask
+Flask==3.0.0
