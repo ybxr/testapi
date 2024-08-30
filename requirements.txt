@@ -1,1 +1,1 @@
-pip install Flask
+pip3 install Flask
